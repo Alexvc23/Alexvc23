@@ -1,4 +1,4 @@
-# Hi there, I'm [Alexander VALENCIA] 👋
+# Hi there, I'm Alexander VALENCIA 👋
 
 I'm a passionate software developer with experience in C, C++, Bash, Linux, and Docker. I enjoy solving complex problems, optimizing code, and creating efficient solutions that make a difference.
 
