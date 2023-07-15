@@ -4,9 +4,9 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 🚀 Skills
 
-- **Languages**: 💻 C, C++, Bash, Java, Python, JavaScript, Ruby
+- **Languages**: 💻 C, C++, Bash, Python, MarkDown
 - **Operating Systems**: 🐧 Linux
-- **Tools & Technologies**: 🐳 Docker, 🌲 Git, 📄 Makefile, Excel
+- **Tools & Technologies**: 🐳 Docker, 🌲 Git, 📄 Makefile, Excel, Vim
 - **Web Development**: Responsive Design, User Interfaces
 - **Customer Service**: Chat Support, AT&T Package Management
 - **Project Management**: Schedule Organization, Detailed Reporting, Regular Client Communication
