@@ -44,10 +44,6 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 - **[Minishell-42](https://github.com/Alexvc23/minishell-42)** - This project is an implementation of a Bash shell, completed as part of the 42 school curriculum. It demonstrates a thorough understanding of shell functionality and programming, with features that mirror those found in a traditional Bash shell.
 
-### Net Practice
-
-- **[net-practice](https://github.com/Alexvc23/net_practice)** - A project dedicated to understanding the nuances of the TCP/IP protocol and address formatting. It offers deep insights into networking protocols, and it's a demonstration of my ability to grasp complex networking concepts.
-
 ### Cub3D
 
 - **[Cub3D](https://github.com/Alexvc23/cub3d)** - This project showcases a raycasting engine reminiscent of early 3D games like Wolfenstein 3D. Developed in collaboration with Elsruora who handled the parsing, it uses the Minilibx library provided by the 42 school. The project provides insight into graphics programming, specifically line drawing techniques, and rendering in C using the Minilibx library.
