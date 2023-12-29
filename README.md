@@ -47,7 +47,7 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ### ft_transcendence
 
-- **[ft_transcendence](https://github.com/Alexvc23/ft_transcendence)** - As part of the 42 school curriculum, I developed ft_transcendence, a website for Pong competition. This project involved creating a single-page application with real-time multiplayer Pong games, integrated chat, and user account management, showcasing my skills in web development, responsive design, and real-time data handling. Developed using NestJS for backend, a TypeScript framework for frontend, and PostgreSQL for database management.
+- **[ft_transcendence](https://github.com/Alexvc23/ft_transcendance)** - As part of the 42 school curriculum, I developed ft_transcendence, a website for Pong competition. This project involved creating a single-page application with real-time multiplayer Pong games, integrated chat, and user account management, showcasing my skills in web development, responsive design, and real-time data handling. Developed using NestJS for backend, a TypeScript framework for frontend, and PostgreSQL for database management.
 
 ### Minishell-42
 
