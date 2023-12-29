@@ -4,13 +4,18 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 🚀 Skills
 
-- **Languages**: 💻 C, C++, Bash, Python, MarkDown
-- **Operating Systems**: 🐧 Linux
-- **Tools & Technologies**: 🐳 Docker, 🌲 Git, 📄 Makefile, Excel, Vim
-- **Web Development**: Responsive Design, User Interfaces
-- **Customer Service**: Chat Support, AT&T Package Management
-- **Project Management**: Schedule Organization, Detailed Reporting, Regular Client Communication
-- **Data Analysis**: Real-Time Monitoring, Regular Reporting, Proactive Alerting
+- **Languages**: 💻 C, C++, Bash, Python, JavaScript, TypeScript, SQL, MarkDown
+- **Operating Systems**: 🐧 Linux, Debian (Virtualization and Server Management)
+- **Tools & Technologies**: 🐳 Docker, 🌲 Git, 📄 Makefile, Excel, Vim, NestJS, Minilibx, PostgreSQL, VirtualBox, API Integration (Gmail API)
+- **Web Development**: Responsive Design, User Interfaces, Single-Page Applications, Real-Time Multiplayer Online Games, Chat Systems, Frontend and Backend Development
+- **Customer Service**: Chat Support, AT&T Package Management, High-Quality Client Interaction
+- **Project Management**: Schedule Organization, Detailed Reporting, Regular Client Communication, Collaborative Development
+- **Data Analysis**: Real-Time Monitoring, Regular Reporting, Proactive Alerting, Call Trend Analysis, Financial Reporting
+- **Game Development**: Graphics Programming, Raycasting Techniques, Game Engine Logic
+- **Server & Network Management**: Linux Server Configuration, Security Measures, Virtualization
+- **Software Development**: Shell Programming, Concurrent Programming with Threads, Process and Memory Management, Network Communication, Data Streaming
+- **Security**: Encryption Techniques, Protection Against SQL Injections
+
 
 ## 📚 Education
 
@@ -39,6 +44,10 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
   - Alerted supervisors about waiting calls and agents not adhering to their schedules.  
 
 ## 🏆 Projects
+
+### ft_transcendence
+
+- **[ft_transcendence](https://github.com/Alexvc23/ft_transcendence)** - As part of the 42 school curriculum, I developed ft_transcendence, a website for Pong competition. This project involved creating a single-page application with real-time multiplayer Pong games, integrated chat, and user account management, showcasing my skills in web development, responsive design, and real-time data handling. Developed using NestJS for backend, a TypeScript framework for frontend, and PostgreSQL for database management.
 
 ### Minishell-42
 
