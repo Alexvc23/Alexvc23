@@ -66,5 +66,5 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/jairo-alexander-valencia-candamil-542965108/)
+- [LinkedIn](https://www.linkedin.com/in/alexander-valencia-542965108/)
 - [Email](mailto:alexandervalencia1994@gmail.com)
