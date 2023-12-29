@@ -49,6 +49,9 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 - **[ft_transcendence](https://github.com/Alexvc23/ft_transcendance)** - As part of the 42 school curriculum, I developed ft_transcendence, a website for Pong competition. This project involved creating a single-page application with real-time multiplayer Pong games, integrated chat, and user account management, showcasing my skills in web development, responsive design, and real-time data handling. Developed using NestJS for backend, a TypeScript framework for frontend, and PostgreSQL for database management.
 
+### Inception Project
+- **[Inception Project](https://github.com/Alexvc23/inception-project)** - A comprehensive system administration project focusing on Docker virtualization. The objective was to create a multifaceted infrastructure using Docker containers, each hosting a specific service. This project involved setting up an infrastructure composed of various services like NGINX, WordPress, MariaDB, and implementing TLS, all running in a virtual machine using docker-compose. Demonstrates deep understanding of system administration, Docker, and network configurations.
+
 ### Minishell-42
 
 - **[Minishell-42](https://github.com/Alexvc23/minishell-42)** - This project is an implementation of a Bash shell, completed as part of the 42 school curriculum. It demonstrates a thorough understanding of shell functionality and programming, with features that mirror those found in a traditional Bash shell.
