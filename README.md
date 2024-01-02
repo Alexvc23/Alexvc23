@@ -30,7 +30,7 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 💼 Work Experience
 
-- **Customer Service Consultant** -  SGS COLOMBIA HOLDING S.A.S, [02/03/2019 – 01/06/2019], Bogota, Colombia
+- **Customer Service Consultant** -  SGS COLOMBIA HOLDING S.A.S, [Mar 2019 – Jun 2019], Bogota, Colombia
   - Provided high-quality customer service through chats to US-based clients.
   - Kept up-to-date with the latest AT&T offers and promotions, presenting the most advantageous options to clients.
 
@@ -39,7 +39,7 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
   - Calculated monthly billing for client departments and created Excel reports with graphs and charts to present operation metrics.
   - Conducted daily calls with California (USA) client to address topics related to scheduling and finance.
   - 
-- **Real-Time Analyst** - Teleperformance SE, [09/06/2017 – 10/02/2018], Bogota, Colombia
+- **Costumer Service Representative** - Teleperformance SE, [Aug 2016 – Jul 2017], Bogota, Colombia
   - Monitored real-time call trends and auxiliary dispositions, sent updated reports every 30 minutes to the operation manager.
   - Alerted supervisors about waiting calls and agents not adhering to their schedules.  
 
