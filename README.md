@@ -38,10 +38,9 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
   - Organized schedules and sent reports to the Workforce department and operational manager.
   - Calculated monthly billing for client departments and created Excel reports with graphs and charts to present operation metrics.
   - Conducted daily calls with California (USA) client to address topics related to scheduling and finance.
-  - 
+    
 - **Costumer Service Representative** - Teleperformance SE, [Aug 2016 – Jul 2017], Bogota, Colombia
-  - Monitored real-time call trends and auxiliary dispositions, sent updated reports every 30 minutes to the operation manager.
-  - Alerted supervisors about waiting calls and agents not adhering to their schedules.  
+  - Provide high quality customer service to users via chat or tickets, in English and Spanish.
 
 ## 🏆 Projects
 
