@@ -19,7 +19,7 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 📚 Education
 
-- **Software Engineering** - 42 Lyon Auvergne-Rhône-Alpes, Aug 2021 - Current, Charbonnières-les-Bains, France
+- **Software Engineering** - 42 Lyon Auvergne-Rhône-Alpes, Nov 2022 - Current, Charbonnières-les-Bains, France
   - [42 Lyon](https://42lyon.fr/)
 
 - **DELF B2** - INFLEXION LYON, Feb 2021 - May 2021, Lyon, France
@@ -30,17 +30,15 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 💼 Work Experience
 
-- **Customer Service Consultant** -  SGS COLOMBIA HOLDING S.A.S, [Mar 2019 – Jun 2019], Bogota, Colombia
-  - Provided high-quality customer service through chats to US-based clients.
-  - Kept up-to-date with the latest AT&T offers and promotions, presenting the most advantageous options to clients.
+- **Technical support specialist** - KUDO Inc, [Oct 2022 - Current].
+  - Specialized in managing multilingual webinars and technical coordination with clients and teams, using KUDO and Microsoft Teams.
 
-- **Data Analyst** - Teleperformance SE, Jul 2017 - Oct 2018, Bogota, Colombia
-  - Organized schedules and sent reports to the Workforce department and operational manager.
-  - Calculated monthly billing for client departments and created Excel reports with graphs and charts to present operation metrics.
-  - Conducted daily calls with California (USA) client to address topics related to scheduling and finance.
-    
-- **Costumer Service Representative** - Teleperformance SE, [Aug 2016 – Jul 2017], Bogota, Colombia
-  - Provide high quality customer service to users via chat or tickets, in English and Spanish.
+- **Customer Service Consultant** -  SGS COLOMBIA HOLDING S.A.S, [Mar 2019 – Jun 2019], Bogota, Colombia
+  - Improved customer satisfaction by 25% through rapid and effective communication via live chat.
+
+- **Data Analyst** - Teleperformance SE, Aug 2016 - Oct 2018, Bogota, Colombia
+  - Created analytical reports that identified opportunities for improving operational efficiency, resulting in a 15% cost reduction.
+  
 
 ## 🏆 Projects
 
