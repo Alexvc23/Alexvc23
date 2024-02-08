@@ -19,7 +19,7 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ## 📚 Education
 
-- **Software Engineering** - 42 Lyon Auvergne-Rhône-Alpes, Nov 2022 - Current, Charbonnières-les-Bains, France
+- **Software Engineering** - 42 Lyon Auvergne-Rhône-Alpes, Nov 2021 - Current, Charbonnières-les-Bains, France
   - [42 Lyon](https://42lyon.fr/)
 
 - **DELF B2** - INFLEXION LYON, Feb 2021 - May 2021, Lyon, France
