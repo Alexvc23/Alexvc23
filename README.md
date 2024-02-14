@@ -123,7 +123,7 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 
 ### Philosophers
 
-- ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[Philosophers](https://github.com/Alexvc23/philosophers)** - Thi![GitHub](https://img.shields.io/badge/GitHub--green?logo=github)s project provides a deep understanding of the difference between processes and threads, manipulation of shared memory spaces, and working with threads. It also introduces concepts like mutex and semaphores, fundamental to understanding and managing concurrent programming.
+- ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[Philosophers](https://github.com/Alexvc23/philosophers)** project provides a deep understanding of the difference between processes and threads, manipulation of shared memory spaces, and working with threads. It also introduces concepts like mutex and semaphores, fundamental to understanding and managing concurrent programming.
 
 ### Gmail Wipeout
 
