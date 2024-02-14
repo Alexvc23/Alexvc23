@@ -2,6 +2,9 @@
 
 I'm a passionate software developer with experience in C, C++, Bash, Linux, Docker, web development, and customer service. I enjoy solving complex problems, optimizing code, and creating efficient solutions that make a difference.
 
+## Contact Me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jairo-alexander-valencia-candamil-542965108)
+- [Email](mailto:alexandervalencia1994@gmail.com)
 
 ## 🚀 Skills
 
@@ -128,7 +131,3 @@ I'm a passionate software developer with experience in C, C++, Bash, Linux, Dock
 ### Gmail Wipeout
 
 - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[gmail_wipeout](https://github.com/Alexvc23/wipe_out_gmail)** - This script enables authentication into the Gmail API to delete all unread emails. It provides a practical demonstration of interacting with external APIs and automating email management tasks.
-
-## Contact Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jairo-alexander-valencia-candamil-542965108)
-- [Email](mailto:alexandervalencia1994@gmail.com)
