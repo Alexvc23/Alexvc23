@@ -102,18 +102,17 @@ I'm a software developer with a knack for C, C++, Bash, Linux, Docker, and web d
 - **Data Analyst** - Teleperformance SE, Aug 2016 - Oct 2018, Bogota, Colombia
   - Created analytical reports that identified opportunities for improving operational efficiency, resulting in a 15% cost reduction.
 
-  ## 🏆 Projects
+## 🏆 Projects
 
-  ### ft_linear_regression
-  - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[ft_linear_regression](https://github.com/Alexvc23/ft_linear_regression)** - A project focused on implementing linear regression from scratch, demonstrating a fundamental machine learning algorithm.
+### ft_linear_regression
+- ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[ft_linear_regression](https://github.com/Alexvc23/ft_linear_regression)** - A project focused on implementing linear regression from scratch, demonstrating a fundamental machine learning algorithm.
 
+### ft_transcendence
+- ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[ft_transcendence](https://github.com/Alexvc23/ft_transcendance)** - As part of the 42 school curriculum, I developed ft_transcend
 
-  ### ft_transcendence
-  - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[ft_transcendence](https://github.com/Alexvc23/ft_transcendance)** - As part of the 42 school curriculum, I developed ft_transcend
-
-    ![GitHub Stars](https://img.shields.io/github/stars/Noushhhh/42_TRANSCENDANCE?style=social)
-    ![GitHub Issues](https://img.shields.io/github/issues/Noushhhh/42_TRANSCENDANCE)
-    ![GitHub Forks](https://img.shields.io/github/forks/Noushhhh/42_TRANSCENDANCE?style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/Noushhhh/42_TRANSCENDANCE?style=social)
+  ![GitHub Issues](https://img.shields.io/github/issues/Noushhhh/42_TRANSCENDANCE)
+  ![GitHub Forks](https://img.shields.io/github/forks/Noushhhh/42_TRANSCENDANCE?style=social)
 
 ### Inception Project
 - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[Inception Project](https://github.com/Alexvc23/inception)** - A comprehensive system administration project focusing on Docker virtualization.
