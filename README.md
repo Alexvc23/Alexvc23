@@ -7,11 +7,11 @@ I'm a software developer with a knack for C, C++, Bash, Linux, Docker, and web d
 <p align="center">
   <a href="mailto:alexandervalencia1994@gmail.com">
     <img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:alexandervalencia1994@gmail.com" />
-  </a>
-  <span> * </span>
-  <a href="http://www.linkedin.com/in/jairo-alexander-valencia-candamil-542965108">
-    <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/jairo-alexander-valencia-candamil-542965108" />
-  </a>
+    </a>
+    <span> * </span>
+    <a href="https://www.linkedin.com/in/alexander-valencia-data/">
+    <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-valencia-data/" />
+    </a>
 </p>
 
 | [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=jolly)](https://github.com/Alexvc23?tab=repositories) |
