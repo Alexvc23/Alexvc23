@@ -1,6 +1,5 @@
 # Hi there, I'm Alexander Valencia 👋
-
-I'm a software developer with a knack for C, C++, Bash, Linux, Docker, and web development. I love tackling challenging problems, making code run smoother, and building practical solutions. When I'm not coding, you might find me exercising, dancing, traveling, or exploring history.
+I'm a dedicated software developer specializing in data management and analysis. With proficiency in SQL, Python, and data visualization tools, I transform raw data into meaningful insights. I focus on optimizing data pipelines, ensuring data integrity, and developing efficient data-driven solutions. Outside of work, I enjoy exercising, dancing, traveling, and exploring history.
 
 
 ## Contact Me
