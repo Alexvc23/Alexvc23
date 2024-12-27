@@ -32,7 +32,7 @@ Right Column:
 
 Both elements are center-aligned within their cells using markdown alignment syntax :-:
 -->
-| [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=radical)](https://github.com/Alexvc23?tab=repositories) |
+| [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=prussian)](https://github.com/Alexvc23?tab=repositories) |
 |:-:|:-:|
 
 ## 🚀 Skills
