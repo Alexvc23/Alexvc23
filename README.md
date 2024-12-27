@@ -13,7 +13,26 @@ I'm a dedicated software developer specializing in data management and analysis.
     </a>
 </p>
 
-| [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=jolly)](https://github.com/Alexvc23?tab=repositories) |
+<!--
+This is a markdown table displaying GitHub statistics for user Alexvc23. The table consists of two columns:
+
+Left Column:
+- Shows overall GitHub statistics using github-readme-stats
+- Includes private contributions and all commits
+- Displays various statistics with icons
+- Hides issues count
+- Uses "jolly" theme with hidden borders
+- Links to user's repository page
+
+Right Column:
+- Shows most used programming languages statistics
+- Uses compact layout
+- Matches "jolly" theme with hidden borders
+- Also links to user's repository page
+
+Both elements are center-aligned within their cells using markdown alignment syntax :-:
+-->
+| [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=radical)](https://github.com/Alexvc23?tab=repositories) |
 |:-:|:-:|
 
 ## 🚀 Skills
