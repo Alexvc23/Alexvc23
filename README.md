@@ -32,8 +32,10 @@ Right Column:
 
 Both elements are center-aligned within their cells using markdown alignment syntax :-:
 -->
-| [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=prussian)](https://github.com/Alexvc23?tab=repositories) |
-|:-:|:-:|
+
+| Alexander's GitHub Stats | Alexander's Most Used Languages |
+| :-: | :-: |
+| [![Alexander's GitHub stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Alexvc23&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/Alexvc23?tab=repositories) | [![Alexander's most used languages](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Alexvc23&layout=compact&hide_border=true&theme=prussian)](https://github.com/Alexvc23?tab=repositories) |
 
 ## 🚀 Skills
 
@@ -91,34 +93,6 @@ Both elements are center-aligned within their cells using markdown alignment syn
 ### Security
 ![Encryption Techniques](https://img.shields.io/badge/Encryption%20Techniques-Advanced-darkgreen)
 ![SQL Injection Protection](https://img.shields.io/badge/SQL%20Injection%20Protection-Enforced-red)
-
-## 📚 Education
-
-- **Software Engineering** - 42 Lyon Auvergne-Rhône-Alpes, Nov 2021 - Current, Charbonnières-les-Bains, France
-  - [42 Lyon](https://42lyon.fr/)
-
-- **DELF B2** - INFLEXION LYON, Feb 2021 - May 2021, Lyon, France
-  - [INFLEXION](https://www.inflexyon.fr/)
-
-- **English Top Notch 1,2,3 (B2+)** - American School Way, Feb 2015 - May 2016, Bogotá, Colombia
-  - [American School Way](https://www.americanschoolway.edu.co/)
-
-## 💼 Work Experience
-
-- **Full Stack Developer Specialized in Data Management (Internship)** - Exo Partners, Apr 2024 - Oct 2024, Charbonnières-les-Bains, Auvergne-Rhône-Alpes, France
-  - Developed stored procedures and data management tools with SQL Server.
-  - Implemented a centralized feature to simplify budget updates.
-  - Created interactive front-end components (C#, TypeScript, SQL Server).
-  - Collaborated in an Agile environment to solve technical issues and optimize interfaces.
-
-- **Technical support specialist** - KUDO Inc, Oct 2022 - Current.
-  - Specialized in managing multilingual webinars and technical coordination with clients and teams, using KUDO and Microsoft Teams.
-
-- **Customer Service Consultant** - SGS COLOMBIA HOLDING S.A.S, Mar 2019 – Jun 2019, Bogota, Colombia
-  - Improved customer satisfaction by 25% through rapid and effective communication via live chat.
-
-- **Data Analyst** - Teleperformance SE, Aug 2016 - Oct 2018, Bogota, Colombia
-  - Created analytical reports that identified opportunities for improving operational efficiency, resulting in a 15% cost reduction.
 
 ## 🏆 Projects
 
