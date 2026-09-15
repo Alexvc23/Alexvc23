@@ -59,16 +59,16 @@ Both elements are center-aligned within their cells using markdown alignment syn
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
-## 🏆 Projects
-
-### Data Science Logistic Regression (DSLR)
-- ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[DSLR](https://github.com/Alexvc23/DSLR)** - A complete data science project implementing Logistic Regression from scratch. It includes exploratory data analysis (EDA), data visualization, and feature selection to classify datasets.
+## 🏆 Some of my Projects
 
 ### Multilayer Perceptron (MLP) From Scratch
 - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[Multilayer-Perceptron-MLP](https://github.com/Alexvc23/Multilayer-Perceptron-MLP-From-Scratch)** - Built an Artificial Neural Network (MLP) completely from scratch in Python. This project demonstrates a deep understanding of backpropagation, gradient descent, and the core mathematics behind Deep Learning.
 
 ### Leaffliction (Computer Vision & ML)
 - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[Leaffliction](https://github.com/akhellad/Leaffliction)** - A machine learning and computer vision project focused on image classification. Built to detect and classify plant diseases using data augmentation and neural networks.
+
+### Data Science Logistic Regression (DSLR)
+- ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[DSLR](https://github.com/Alexvc23/DSLR)** - A complete data science project implementing Logistic Regression from scratch. It includes exploratory data analysis (EDA), data visualization, and feature selection to classify datasets.
 
 ### Data Science Bootcamp (Piscine)
 - ![GitHub](https://img.shields.io/badge/GitHub--green?logo=github) **[Piscine-Data-Science-2](https://github.com/Alexvc23/Piscine-Data-Science-2)** - An intensive data science training program covering data manipulation, Pandas, SQL databases, exploratory data analysis, and data visualization techniques.
